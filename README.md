@@ -47,9 +47,6 @@ I enjoy turning ideas into functional digital products while continuously improv
 - Responsive UI/UX projects  
 - Personal and collaborative software projects  
 
----
 
-## 📫 Connect With Me
-I’m always open to networking, collaboration, and internship opportunities.
 
-LinkedIn → www.linkedin.com/in/babakpourkar
+
